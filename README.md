@@ -11,6 +11,7 @@ A full-stack, cloud-deployed movie review and watchlist application. The backend
 Click here to visit :  https://cine-reviews.netlify.app/
 
 ---
+<img width="1920" height="1080" alt="HomePage" src="https://github.com/user-attachments/assets/b5c4710d-492d-456a-9e5d-b685ae214981" />
 
 ## ✨ Features
 
